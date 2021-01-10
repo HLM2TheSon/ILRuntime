@@ -1,0 +1,7 @@
+世界坐标Vec3  屏幕坐标（screen.width,screen.height） 视口坐标跟屏幕坐标息息相关，。它将屏幕坐标转换为左下角(0,0),右上角(1,1)的坐标
+
+WorldToScreenPoint  世界坐标转换为屏幕坐标
+ScreenToWorldPoint  屏幕坐标转换为世界坐标
+
+WorldToViewportPoint   世界坐标转换为视口坐标
+ViewportToWorldPoint  视口坐标转换为世界坐标
