@@ -1,0 +1,1 @@
+只需要将Touch Cursor的canvas 取消勾选就行，就没有蓝标了
